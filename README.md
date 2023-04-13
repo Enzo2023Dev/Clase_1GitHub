@@ -2,4 +2,3 @@
 
 Primer trabajo GitHub
 
-index.html
